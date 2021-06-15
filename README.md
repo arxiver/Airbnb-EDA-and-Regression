@@ -54,7 +54,7 @@ Validation r2: 0.6139
 ```
 ## Future work
 
-- Use reviews dataset on each property and making sentimentanalysis on them in order to add
+- Use reviews dataset on each property and making sentiment analysis on them in order to add
     new feature to each property
 - Using more larger dataset consists of multiple placesand countries
 
