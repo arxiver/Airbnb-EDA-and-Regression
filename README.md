@@ -10,14 +10,16 @@
 
   <p align="center">
     <br />
-    <a href="https://colab.research.google.com/drive/1aWuot455_nNXtPis9huD1psBGbdUm2b0?usp=sharing">Demo</a>
+    <a href="https://colab.research.google.com/drive/1aWuot455_nNXtPis9huD1psBGbdUm2b0?usp=sharing">Colab</a>
+    ·
+    <a href="https://www.kaggle.com/mohamedmokhtar7/airbnb-eda-and-regression">Kaggle</a>
     ·
     <a href="./Document.pdf">Report</a>
     ·
     <a href="./Notebook.ipynb">Notebook</a>
       ·
     <a href="https://drive.google.com/file/d/11eF32svdn-NPLaKpItYsbBp5T45stJMP/view?usp=sharing">Video</a>
-
+    
   </p>
 </p>
 Big data exploration and analysis on Airbnb dataset as well as regression model for price prediction of entities
